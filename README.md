@@ -7,7 +7,7 @@ A script to parse a great article by Eater SF and output a CSV with a row per ba
 Each entry will have: 
 ```
 {
-  neighborhood: string, 
+  neighborhood: enum, // a bay area neighborhood 
   category: enum, // the categories are standardized from the Eater SF article
   name: string, // name of restaurant
   link: UrlString,
