@@ -36,4 +36,4 @@ $ node index.js
 
 ## Making changes
 
-All logic lives in `index.js`. Feel free to change as your heart desires.
+All logic lives in `index.js`. Feel free to change to your heart's content.
