@@ -34,6 +34,8 @@ Then, run:
 $ node index.js
 ```
 
+lala
+
 ## Making changes
 
 All logic lives in `index.js`. Feel free to change to your heart's content.
